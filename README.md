@@ -9,7 +9,7 @@
 - Constantly improving and solving coding challenges
 
 ### 2. Programming Languages
-- **Python**: Higher level expertise
+- **Python**: Advanced level proficiency
 - **C++**: Beginner level proficiency
 - **Java**: Beginner level proficiency
 - **JavaScript**: Beginner level proficiency
